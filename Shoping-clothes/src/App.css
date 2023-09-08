@@ -1,0 +1,14 @@
+.splide__arrow svg {
+    fill: rgb(245, 245, 245) !important; 
+    height: 4.2em !important; 
+    width: 4.2em !important; 
+  }
+
+.splide__pagination__page {
+    background-color:#242424 !important;
+  margin-bottom: 5rem !important;
+}
+
+.splide__pagination__page.is-active {
+transform: scale(2) !important;
+}
